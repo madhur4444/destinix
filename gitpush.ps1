@@ -6,8 +6,8 @@ function Push-Master {
         [string]$BranchName
     )
     Write-Information "Make sure you are firing this from right directory" -InformationAction Continue
-    git pull origin master
     git add .
+    git pull origin master
     git commit -m $CommitMessage
     git push origin $BranchName
 }
