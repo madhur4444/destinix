@@ -128,7 +128,7 @@
 
 			</div>
 				<div id="loginText">
-					<h1>Discover Great Music Now</h1>
+					<h1>Discover Great Music </h1>
 					<h2>Minimalist Music Discovery </h2>
 					<ul>
 						<li>Listen to music you will remember forever</li>
